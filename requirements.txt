@@ -1,5 +1,6 @@
 streamlit
-pytube
 matplotlib
 librosa
 numpy
+# 下面這一行會直接從 GitHub 安裝最新版的 pytube
+git+https://github.com/pytube/pytube.git
