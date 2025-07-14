@@ -28,7 +28,8 @@ git commit -m "在這裡寫下你的更新說明，例如：新增頻譜圖功�
 # 3. 將這些提交的變更推送到你的 GitHub 遠端儲存庫
 git push origin main  # 或者 git push origin master，取決於你的主要分支名稱
 
+
 git add .
-git commit -m "Update overtime app"
+git commit -m "Update voiceChanger app"
 git push origin main
 
